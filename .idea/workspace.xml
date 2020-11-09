@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="416f86cd-57c5-45bf-916d-0b97f29a8f08" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/task/people/stats/People.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/task/people/stats/People.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/task/people/stats/PeopleStats.Java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/task/people/stats/PeopleStats.Java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
